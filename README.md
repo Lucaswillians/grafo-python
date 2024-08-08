@@ -1,1 +1,1 @@
-# grafo-python
+Atividade da materia Inteligencia Artificial no curso Engenharia de Software.
